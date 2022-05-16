@@ -10,6 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 @Component
+
 public class FirstIntercepter implements HandlerInterceptor {
 
 
